@@ -10,11 +10,6 @@ I love providing innovative solutions that simplify everyone's work. Automation 
 - **Databases:** PostgreSQL, MySQL, MongoDB, GraphQL, Redis
 - **DevOps & Tools:** Docker, Docker swarm, CI/CD, Git
 
-###  What I'm Working On: Modifier
-In my free time, you'll find me experimenting with hardware and building custom projects. Here's what I'm currently up to:
-- **Personal Flipper Zero:** A custom-built multi-tool for hacking, inspired by the original Flipper Zero.
-- **Web Scraping & AI:** Automating data extraction and playing with AI models to tackle real-world challenges.
-
 ###  Contact:
 - **Email:** [balmer.yannick@gmail.com](mailto:balmer.yannick@gmail.com)
 - **LinkedIn:** [Yannick Balmer](https://www.linkedin.com/in/yannickbalmer)
